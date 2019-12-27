@@ -1,2 +1,2 @@
 # Jupyters
-My rep for Jupyters
+My rep for Jupyters Notebooks
